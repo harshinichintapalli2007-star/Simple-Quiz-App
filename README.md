@@ -73,7 +73,7 @@ Your Score: 5 / 5
 - Shuffle questions randomly
 - Add a timer
 - Save high scores
-- Build a graphical interface using Tkinter
+- Build a graphical interface using Tkinter 
 
 ## Author
 
